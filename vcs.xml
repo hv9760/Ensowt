@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/ENSOWT/Pepper_merchant_android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ENSOWT/Winggz-Shopper-Android/commits/dev-harshit" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Android project\Shopper Release after" />
