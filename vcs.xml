@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/ENSOWT/Winggz_Business_Tab.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ENSOWT/khata_merchant_android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Android project\Shopper App\Harshit Winggz Tablet" />
